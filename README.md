@@ -1,2 +1,2 @@
-# auth-api
+# Auth API
 API application for Dicoding Indonesia's course purpose
